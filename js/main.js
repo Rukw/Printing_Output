@@ -27,9 +27,9 @@ a < b: ${a < b}
 console.log(num);
 
 // Declare the variables
-let first_name = "YourFirstName";
-let last_name = "YourLastName";
-let email = "your-email@mail.com";
+let first_name = "Denis";
+let last_name = "Muthui";
+let email = "rukw0001@algonquinlive.com";
 
 // Create the expression
 let output = `My name is ${first_name} ${last_name}. You can contact me at ${email}.`;
